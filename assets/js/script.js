@@ -22,52 +22,35 @@ const knowledgeBase = {
   "leadership": "Our leadership team:\n- Dr. Mohammed Ali (Principal)\n- Prof. Shaji Kumar (Dean Academics)\n- Dr. Anitha Thomas (Head of R&D)",
 
   // Programs (10 variations)
-  "programs": "Undergraduate programs:\n1. B.Tech Computer Science (AI/ML specialization)\n2. B.Tech Electronics (IoT focus)\n3. B.Tech Mechanical (Robotics track)\n4. B.Tech Civil (Smart Infrastructure)",
-  "courses": "Our course offerings:\n- 4-year B.Tech programs\n- 2-year M.Tech programs\n- 5-year integrated M.Tech\n- PhD in Engineering disciplines",
-  "btech": "B.Tech programs (4 years):\n1. Computer Science & Engineering\n2. Electronics & Communication\n3. Mechanical Engineering\n4. Electrical & Electronics\n5. Civil Engineering",
-  "mtech": "M.Tech specializations:\n- Artificial Intelligence\n- VLSI Design\n- Thermal Engineering\n- Structural Engineering\n- Power Systems",
-  "specializations": "Program specializations:\n- AI/ML Engineering\n- Cyber Security\n- Data Science\n- Robotics & Automation\n- Renewable Energy Systems",
-  "new programs": "Latest program additions:\n1. B.Tech in Artificial Intelligence (from 2023)\n2. M.Tech in Quantum Computing (from 2024)\n3. Integrated program in Space Technology",
-  "diploma": "Diploma programs (3 years):\n- Computer Engineering\n- Electronics\n- Mechanical\n- Civil\n- Electrical",
-  "phd": "PhD research areas:\n- Machine Learning\n- Nanoelectronics\n- Sustainable Energy\n- Smart Materials\n- IoT Systems",
-  "certification": "Value-added certifications:\n- Google Cloud Fundamentals\n- AWS Academy\n- Cisco Networking\n- Siemens Automation\n- MATLAB Programming",
-  "syllabus": "Our curriculum includes:\n- Core engineering subjects\n- Industry-relevant electives\n- Hands-on projects\n- Internship program\n- Research components",
+
+  "programs": "Our academic programs:\n- Undergraduate (UG)\n- Postgraduate (PG)\n- Diploma",
+  "courses": "Our course offerings:\n- B.Tech\n- BBA\n- BCA\n- Diploma\n- MCA\n- MBA",
+  "btech": "B.Tech Programs:\n1. B.Tech in Artificial Intelligence and Data Science\n2. B.Tech in Computer Science and Engineering\n3. B.Tech in Computer Science and Engineering (Cyber Security)\n4. B.Tech in Electronics and Communication Engineering",
+  "diploma": "Diploma Programs:\n1. Computer Science and Engineering\n2. Artificial Intelligence and Machine Learning",
+
+
 
   // Admissions (10 variations)
-  "admission": "Admission process:\n1. Submit application form\n2. Appear for entrance test\n3. Personal interview\n4. Document verification\n5. Fee payment",
-  "eligibility": "B.Tech eligibility:\n- 60% in 10+2 (PCM)\n- Valid KEAM/JEE score\nM.Tech eligibility:\n- B.Tech with 60% marks\n- Valid GATE score preferred",
-  "application": "How to apply:\n1. Online: www.kmctadmissions.in\n2. Application fee: ₹1000\n3. Documents needed:\n   - Mark sheets\n   - ID proof\n   - Passport photo",
-  "deadline": "Admission deadlines:\n- Round 1: May 30\n- Round 2: June 30\n- Late applications: July 15 (with late fee)\n- Classes begin: August 1",
-  "fees": "Fee structure (annual):\n- B.Tech: ₹1,25,000\n- M.Tech: ₹95,000\n- Hostel: ₹60,000\n- One-time admission fee: ₹25,000",
-  "scholarship": "Scholarship options:\n- Merit-based (100% fee waiver for top rankers)\n- Need-based\n- Special scholarships for girls\n- Sports quota scholarships",
-  "international": "International admissions:\n- Eligibility: Equivalent qualification\n- English proficiency required\n- Visa assistance provided\n- Special orientation program",
-  "lateral": "Lateral entry (to 2nd year):\n- For diploma holders\n- 3-year B.Tech completion\n- Entrance test required\n- Limited seats available",
-  "transfer": "Credit transfer policy:\n- Max 50% credits transferable\n- From recognized universities only\n- Course equivalence evaluation needed",
-  "documents": "Required documents:\n1. 10th & 12th mark sheets\n2. Transfer certificate\n3. Migration certificate\n4. Entrance scorecard\n5. ID proof\n6. Passport photos",
+ 
+  "admission": "Admission process:\n1. Submit the online application form\n2. Appear for entrance test (if applicable)\n3. Attend personal interview or counseling\n4. Document verification\n5. Pay the admission fee\n\nFor full details, visit: https://www.kmctemergingtechnology.org/",
+  "eligibility": "Eligibility Criteria:\n\nB.Tech:\n- Minimum 50% marks in 10+2 with Physics, Chemistry, and Mathematics (PCM)\n- Valid KEAM/JEE score\n\nBBA:\n- Pass in 10+2 or equivalent examination from a recognized board\n\nBCA:\n- Pass in 10+2 with Mathematics/Computer Science as a subject\n\nMCA:\n- Bachelor’s degree in Computer Applications or relevant field with Mathematics at 10+2 level\n\nMBA:\n- Bachelor’s degree with at least 50% marks\n- Valid score in KMAT/CMAT/CAT\n\nDiploma:\n- Pass in SSLC/10th examination from a recognized board\n\nFor updates and exact criteria, visit: https://www.kmctemergingtechnology.org/",
+  "application": "How to apply:\n1. Apply online at: www.kmctadmissions.in\n2. Application fee: ₹1000\n3. Keep the following documents ready:\n   - Mark sheets (10th, 12th, UG as applicable)\n   - ID proof\n   - Passport-size photo\n\nRefer website for complete process.",
+  "fees": "Fee structure (annual):\n- B.Tech: ₹1,25,000\n- BBA/BCA: ₹65,000 – ₹75,000\n- MCA: ₹85,000\n- MBA: ₹95,000\n- Diploma: ₹45,000 – ₹55,000\n- Hostel: ₹60,000\n- One-time admission fee: ₹25,000",
+  "lateral": "Lateral Entry (to 2nd year B.Tech):\n- Eligibility: 3-year diploma in relevant engineering field\n- Duration: 3 years (direct entry to 2nd year)\n- Entrance test or counseling as per university norms\n- Limited seats available\n\nVisit: https://www.kmctemergingtechnology.org/ for details.",
+  "documents": "Documents required:\n1. 10th & 12th mark sheets\n2. Transfer Certificate (TC)\n3. Conduct Certificate\n4. Migration Certificate (if applicable)\n5. Entrance exam scorecard (KEAM/JEE/KMAT/etc.)\n6. ID proof (Aadhaar/Passport)\n7. Recent passport-size photos\n\nRefer: https://www.kmctemergingtechnology.org/",
 
   // Placements (10 variations)
-  "placement": "Placement highlights:\n- 90% placement rate\n- Highest package: ₹42 LPA\n- Average package: ₹6.5 LPA\n- 200+ recruiting companies",
-  "recruiters": "Top recruiters:\n- TCS, Infosys, Wipro\n- Bosch, Siemens, Schneider\n- Amazon, Microsoft, Google\n- L&T, Tata Motors, Ashok Leyland",
-  "internship": "Internship program:\n- 6-month compulsory internship\n- Stipend range: ₹10,000-₹25,000\n- Industry projects\n- Startup incubation options",
-  "training": "Placement training includes:\n- Aptitude preparation\n- Technical interviews\n- Group discussions\n- Resume building\n- Mock interviews",
-  "alumni": "Notable alumni:\n- Rajesh Kumar (Google)\n- Priya Nair (Microsoft)\n- Arun Menon (Bosch)\n- Sneha Pillai (ISRO)",
-  "stats": "Placement statistics 2023:\n- CS: 95% placed\n- ECE: 92% placed\n- ME: 88% placed\n- Civil: 85% placed",
-  "higher studies": "Higher education options:\n- 20% pursue MS abroad\n- Top destinations: USA, Germany, Canada\n- GRE/GMAT training available\n- University tie-ups",
-  "startup": "Startup support:\n- Incubation center\n- Seed funding up to ₹10 lakhs\n- Mentorship program\n- Industry connections",
-  "research": "Research opportunities:\n- Funded projects\n- Industry collaborations\n- Conference support\n- Publication incentives",
-  "services": "Career services:\n- Resume workshops\n- Company presentations\n- Recruitment drives\n- Career counseling",
+  
+  "placement": "Placement Information:\n- Our first batch is set to graduate in 2026.\n- Full-fledged placement drives will begin thereafter.\n- Placement assistance is actively provided, including:\n   - Resume building workshops\n   - Interview preparation sessions\n   - Industry training and internships\n   - Career guidance and mentorship\n\nStay tuned for updates as our placement cell continues to build strong industry connections.",
 
   // Contacts (10 variations)
-  "contact": "Main contacts:\n📍 Address: KMCT College, NIT Campus P.O., Kozhikode\n📞 Phone: +91 495 1234567\n📧 Email: info@kmct.edu",
-  "department": "Department contacts:\n- CSE: cse@kmct.edu\n- ECE: ece@kmct.edu\n- ME: me@kmct.edu\n- Office: 0495-2345678",
-  "location": "Campus location:\n- 12km from Calicut Railway Station\n- 25km from Calicut Airport\n- Google Maps: https://maps.kmct.edu",
-  "transport": "Transportation options:\n- College buses from major points\n- KSRTC bus stop at gate\n- Auto stand at entrance\n- Parking available",
-  "timings": "Working hours:\n- Office: 9AM-5PM (Mon-Sat)\n- Library: 8AM-8PM\n- Labs: 9AM-6PM\n- Cafeteria: 8AM-8PM",
-  "social": "Connect with us:\n- Facebook: @KMCTOfficial\n- LinkedIn: KMCT College\n- Instagram: kmct_college\n- Twitter: @KMCT_Updates",
-  "emergency": "Emergency contacts:\n- Security: +91 9495123456\n- Medical: +91 9495123457\n- Admin: +91 9495123458",
-  "visit": "Campus visit:\n- Open days: Every Friday\n- Tour timings: 10AM-3PM\n- Register at reception\n- ID proof required",
-  "feedback": "Provide feedback:\n- Email: feedback@kmct.edu\n- Online form: www.kmct.edu/feedback\n- Suggestion boxes on campus",
-  "complaint": "Grievance redressal:\n- Committee headed by Principal\n- Online portal available\n- Confidentiality maintained\n- Resolution within 7 days",
+
+  "contact": "Main Contacts:\n📍 Address: KMCT Institute of Emerging Technology and Management,Mukkam, Kozhikode - 673602, Kerala\n📞 Phone: +91 8943072000/+91 4952293040\n📧 Email: ceet@kmct.org\n🌐 Website: https://www.kmctemergingtechnology.org/",
+  "location": "Campus Location:\n- Approximately 29 km from Calicut Railway Station\n- Approximately 38 km from Calicut International Airport\n- Google Maps: https://www.kmctemergingtechnology.org/contact",
+  "timings": "Working Hours:\n- Office: 9:00 AM to 5:00 PM (Monday to Saturday)",
+  "social": "Connect with Us:\n- https://www.kmctemergingtechnology.org/contact",
+
+
 
   // Default Responses (10 variations)
   "default": "I can help with information about:\n- Academic programs\n- Admission process\n- Campus facilities\n- Placement details\n- Contact information",
