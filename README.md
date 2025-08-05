@@ -29,7 +29,7 @@ An interactive and responsive **college chatbot** built using **HTML, CSS, and J
 
 > Add your UI screenshot in the `assets/` folder and update this link
 
-![Chatbot UI](assets/1.png)
+![Chatbot UI](assets/Screenshot_20250805_220546_Chrome.jpg)
 ![Chatbot UI](assets/2.png)
 
 ---
