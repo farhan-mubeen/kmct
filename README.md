@@ -29,7 +29,7 @@ An interactive and responsive **college chatbot** built using **HTML, CSS, and J
 
 
 ![Chatbot UI](assets/Screenshot_20250805_220546_Chrome.jpg)
-![Chatbot UI 2](Screenshot_20250805_220554_Chrome.jpg)
+![Chatbot UI 2](assets/Screenshot_20250805_220554_Chrome.jpg)
 
 ---
 
